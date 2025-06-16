@@ -1,0 +1,17 @@
+gitinit
+gitadd
+
+git commit -m "Initial comit.-Fortress App
+Phase "I
+
+git branch -M main
+
+git
+remote
+add
+origin
+https://githubcom/aqsa326/fortress-
+app.git
+git
+
+push -u origin main
