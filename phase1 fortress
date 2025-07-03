@@ -1,6 +1,4 @@
-git init
-git add .
-git commit -m "Initial commit - Fortress App Phase 1"
-git branch -M main
-git remote add origin https://github.com/aqsa326/fortress-app.git
-git push -u origin main
+git checkout thefortressapp.pro
+git add docs/fortress_diagnostics_report.pdf
+git commit -m "ci:diagnostics-report – purge .com and legacy flow"
+git push origin thefortressapp.pro
