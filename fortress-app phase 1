@@ -1,17 +1,15 @@
 gitinit
 gitadd
 
-git commit -m "Initial comit.-Fortress App
-Phase "I
+git commit -m "Initial comit.-thefortressapp.pro
 
-git branch -M main
+git branch -thefortressapp.pro
 
 git
 remote
 add
 origin
-https://githubcom/aqsa326/fortress-
-app.git
+https://githubcom/aqsa326/thefortressapp.pro.git
 git
 
-push -u origin main
+push -u origin thefortressapp.pro
