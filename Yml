@@ -1,0 +1,6 @@
+sbom:
+  format: SPDX-2.3
+  source: sbom/spdx-fortress-phase2.json
+  generated_by: protobom + GitHub Dependency Graph
+  verified: true
+  created_at: "2025-07-13T08:32:05Z"
